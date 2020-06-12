@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce_web",
+  "version": "1.0.0",
+  "description": "Our team will use MEAN stack to implementing our website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chefZau/ecommerce_web.git"
+  },
+  "author": "Luca (MingCong)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chefZau/ecommerce_web/issues"
+  },
+  "homepage": "https://github.com/chefZau/ecommerce_web#readme"
+}
