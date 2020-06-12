@@ -8,29 +8,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Here is the [stack](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) we will be using for this project. 
+⋅⋅* Mysql (document database)
+⋅⋅* Express (back-end application framework)
+⋅⋅* React or Angular (front-end application framework)
+⋅⋅* Node.js (JavaScript runtime environment)
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+To install a MEAN stack, please check links below:
+⋅⋅* [Install MEAN Stack](http://osa.ma/2018/install-mean-stack-on-mac/)
+⋅⋅* [Install Node](https://nodejs.org/en/download/)
 
 ## Running the tests
 
@@ -38,7 +26,7 @@ Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
+Explanation
 
 ```
 Give an example
@@ -46,7 +34,7 @@ Give an example
 
 ### And coding style tests
 
-Explain what these tests test and why
+Explanation
 
 ```
 Give an example
@@ -74,7 +62,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Luca(MingCong) Zhou** - *Initial work* - [chefZau](https://github.com/chefZau)
 * **Rocky(YuanKun) Li** - *Initial work* - [RockyOrz](https://github.com/RockyOrz)
-* **Kevin Gao** - *Initial work* - [Kevin Gao](https://github.com/)
+* **Kevin Gao** - *Initial work* - [kevaa](https://github.com/kevaa)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
