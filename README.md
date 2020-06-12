@@ -9,16 +9,16 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 Here is the [stack](https://en.wikipedia.org/wiki/MEAN_(solution_stack)) we will be using for this project. 
-⋅⋅* Mysql (document database)
-⋅⋅* Express (back-end application framework)
-⋅⋅* React or Angular (front-end application framework)
-⋅⋅* Node.js (JavaScript runtime environment)
+  * Mysql (document database)
+  * Express (back-end application framework)
+  * React or Angular (front-end application framework)
+  * Node.js (JavaScript runtime environment)
 
 ### Installing
 
 To install a MEAN stack, please check links below:
-⋅⋅* [Install MEAN Stack](http://osa.ma/2018/install-mean-stack-on-mac/)
-⋅⋅* [Install Node](https://nodejs.org/en/download/)
+  * [Install MEAN Stack](http://osa.ma/2018/install-mean-stack-on-mac/)
+  * [Install Node](https://nodejs.org/en/download/)
 
 ## Running the tests
 
