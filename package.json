@@ -2,7 +2,7 @@
   "name": "ecommerce_web",
   "version": "1.0.0",
   "description": "Our team will use MEAN stack to implementing our website.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chefZau/ecommerce_web/issues"
   },
-  "homepage": "https://github.com/chefZau/ecommerce_web#readme"
+  "homepage": "https://github.com/chefZau/ecommerce_web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
